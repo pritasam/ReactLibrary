@@ -15,6 +15,11 @@ yarn install
 
 react-native link react-native-custom-text
 
+import CustomText from 'react-native-custom-text';
+
+<CustomText text="Hello World"  style={{backgroundColor:"transparent",width: 100, height: 30}}/>
+
+
 
 ## Installation
 
