@@ -3,7 +3,7 @@
 
 ## Description
 
-This project is used to create custom text for react native and it is created for learning purpose
+This project is used to create customText view in react native and it is created for learning purpose
 
 ## Usage
 
