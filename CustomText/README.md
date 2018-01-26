@@ -48,6 +48,8 @@
 import RNCustomText from 'react-native-custom-text';
 
 // TODO: What to do with the module?
-RNCustomText;
+
+<CustomText text="Custom Text" style={{backgroundColor:"transparent",width: 100, height: 30}}/>
+
 ```
   
