@@ -9,7 +9,7 @@ This project is used to create customText view in react native and it is created
 
 Add Following code to the package.json dependencies (you will need to adjust the path):
 
-"react-native-my-text": "https://github.com/pritasam/ReactLibrary.git"
+"react-native-custom-text": "https://github.com/pritasam/ReactLibrary.git"
 
 yarn install
 
